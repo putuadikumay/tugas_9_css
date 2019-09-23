@@ -1,0 +1,26 @@
+img{
+  float: left;
+}
+body{
+  background-image: url("slider2.jpg");
+  background-size: cover;
+}
+div{
+  font-size: 15px;
+  font-weight: bold;
+  text-align: right;
+  margin-top: 10px;
+
+}
+.kolom{
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 430px;
+  margin-right: 1px;
+  margin-bottom: 20px;
+  position: relative;
+  bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
